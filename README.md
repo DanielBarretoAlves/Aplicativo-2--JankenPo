@@ -1,0 +1,1 @@
+# Aplicativo-2--JankenPo
